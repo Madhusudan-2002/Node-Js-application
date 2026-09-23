@@ -1,0 +1,95 @@
+{
+    "success": true,
+    "count": 4,
+    "data": [
+        {
+            "address": {
+                "city": "Pune",
+                "state": "Maharashtra",
+                "country": "India"
+            },
+            "_id": "6ab11377a77de2d5ff8e425a",
+            "name": "Rahul Sharma",
+            "email": "rahul.sharma@gmail.com",
+            "age": 30,
+            "subject": "Full Stack Development",
+            "married": true,
+            "weight": 72,
+            "degrees": [
+                "B.Tech",
+                "M.Tech"
+            ],
+            "createdAt": "2026-09-21T11:22:31.451Z",
+            "updatedAt": "2026-09-21T11:22:31.451Z",
+            "__v": 0
+        },
+        {
+            "address": {
+                "city": "Mumbai",
+                "state": "Maharashtra",
+                "country": "India"
+            },
+            "_id": "6ab24fb2ea4fc093e1a9316e",
+            "name": "Priya Verma",
+            "email": "priya.verma@gmail.com",
+            "age": 28,
+            "subject": "Java Development",
+            "married": false,
+            "weight": 58,
+            "degrees": [
+                "B.E.",
+                "MCA"
+            ],
+            "createdAt": "2026-09-22T09:51:46.893Z",
+            "updatedAt": "2026-09-22T09:51:46.893Z",
+            "__v": 0
+        },
+        {
+            "address": {
+                "city": "Nashik",
+                "state": "Maharashtra",
+                "country": "India"
+            },
+            "_id": "6ab25158844d6d702e133518",
+            "name": "Anjali Deshmukh",
+            "email": "anjali.deshmukh@gmail.com",
+            "age": 32,
+            "subject": "React Development",
+            "married": true,
+            "weight": 60,
+            "degrees": [
+                "B.E.",
+                "M.Tech"
+            ],
+            "createdAt": "2026-09-22T09:58:48.070Z",
+            "updatedAt": "2026-09-22T09:58:48.070Z",
+            "__v": 0
+        },
+        {
+            "address": {
+                "city": "Jaipur",
+                "state": "Rajasthan",
+                "country": "India"
+            },
+            "_id": "6ab25188844d6d702e13351a",
+            "name": "Vikram Singh",
+            "email": "vikram.singh@gmail.com",
+            "age": 38,
+            "subject": "Java Spring Boot",
+            "married": true,
+            "weight": 82,
+            "degrees": [
+                "B.Tech",
+                "MCA"
+            ],
+            "createdAt": "2026-09-22T09:59:36.872Z",
+            "updatedAt": "2026-09-22T09:59:36.872Z",
+            "__v": 0
+            
+        }
+    ]
+}
+
+
+
+         
